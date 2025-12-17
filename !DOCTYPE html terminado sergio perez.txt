@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="periodico digital con noticias actuales">
     <title>COPA MUNDIAL 2030 PERÚ</title>
-    
+
 </head>
 <body>
     <header
@@ -53,12 +53,13 @@
             <a href="https://www.facebook.com/originalstereo907/posts/este-es-el-grupo-c-de-la-copa-del-mundo-rusia2018-francia-australia-per%C3%BA-dinamar/1050653071748832/">Vota y decide quien va a ganar</a>
 
         </ul>
-        <h3>A qui tenemos un fuerte enfrentamiento primero Francia contra Australia y luego Perú el pais del mundial contra Dinamarca.</h3>
-        <li>FRANCIA</li><h3>VS</h3><li>AUSTRALIA</li>
-        <h3>---------------------</h3>
-        <li>PERÚ</li><h3>VS</h3><li>DINAMARCA</li>
-        <h3>------------------------------------------------------------------------------------------------------------------</h3>
-        
+        <aside>
+          <h3>A qui tenemos un fuerte enfrentamiento primero Francia contra Australia y luego Perú el pais del mundial contra Dinamarca.</h3>
+          <li>FRANCIA</li><h3>VS</h3><li>AUSTRALIA</li>
+         <h3>---------------------</h3>
+          <li>PERÚ</li><h3>VS</h3><li>DINAMARCA</li>
+          <h3>------------------------------------------------------------------------------------------------------------------</h3>
+        </aside>
         <!-- Menu de Navegación -->
      <p>GRUPO B;</p>
      <img src="https://thumbs.dreamstime.com/b/grupo-h-de-banderas-pa%C3%ADses-para-el-campeonato-del-f%C3%BAtbol-114819579.jpg" alt="GRUPO B" width="300" height="300">
@@ -72,12 +73,13 @@
             <a href="https://www.facebook.com/TVMaxPanama/posts/primer-tiempo-jap%C3%B3n-0-0-polonia-y-senegal-0-0-colombia-este-resultado-esta-clasi/2057096441219942/">Vota y decide quien va a ganar</a>
 
         </ul>
-        <h3>En este encuentro tenemos a Polonia contra Senegal y despues a Colombia contra Japon, quien de ellos avanzara.</h3>
-        <li>POLONIA</li><h3>VS</h3><li>SENEGAL</li>
-        <h3>---------------------</h3>
-        <li>COLOMBIA</li><h3>VS</h3><li>JAPON</li>
-        <h3>------------------------------------------------------------------------------------------------------------------</h3>
-    
+        <aside>
+          <h3>En este encuentro tenemos a Polonia contra Senegal y despues a Colombia contra Japon, quien de ellos avanzara.</h3>
+          <li>POLONIA</li><h3>VS</h3><li>SENEGAL</li>
+          <h3>---------------------</h3>
+          <li>COLOMBIA</li><h3>VS</h3><li>JAPON</li>
+          <h3>------------------------------------------------------------------------------------------------------------------</h3>
+        </aside>
         <!-- Menu de Navegación -->
      <p>GRUPO C;</p>
      <img src="https://thumbs.dreamstime.com/b/grupo-e-de-banderas-pa%C3%ADses-para-el-campeonato-del-f%C3%BAtbol-114819719.jpg" alt="GRUPO C" width="300" height="300">
@@ -91,12 +93,14 @@
             <a href="https://www.facebook.com/originalstereo907/posts/este-es-el-grupo-e-de-la-copa-del-mundo-rusia2018-brasil-suiza-costa-rica-serbia/1053918864755586/">Vota y decide quien va a ganar</a>
 
         </ul>
-        <h3>Ahora tenemos un enfrentamiento historico entre Brazil contra Suecia y por el otro lado tenemos a Costa Rica contra Servia a ver quien conseguira la victoria.</h3>
-        <li>BRAZIL</li><h3>VS</h3><li>SUIZA</li>
-        <h3>---------------------</h3>
-        <li>COSTA RICA</li><h3>VS</h3><li>SERVIA</li>
-        <h3>------------------------------------------------------------------------------------------------------------------</h3>
-    
+        <aside>
+         <h3>Ahora tenemos un enfrentamiento historico entre Brazil contra Suecia y por el otro lado tenemos a Costa Rica contra Servia a ver quien conseguira la victoria.</h3>
+         <li>BRAZIL</li><h3>VS</h3><li>SUIZA</li>
+         <h3>---------------------</h3>
+         <li>COSTA RICA</li><h3>VS</h3><li>SERVIA</li>
+         <h3>------------------------------------------------------------------------------------------------------------------</h3>
+        </aside>
+
          <!-- Menu de Navegación -->
      <p>GRUPO D;</p>
      <img src="https://thumbs.dreamstime.com/b/grupo-f-de-banderas-pa%C3%ADses-para-el-campeonato-del-f%C3%BAtbol-114819618.jpg" alt="GRUPO D" width="300" height="300">
@@ -110,29 +114,34 @@
             <a href="https://www.facebook.com/originalstereo907/posts/este-es-el-grupo-f-de-la-copa-del-mundo-rusia2018-alemania-m%C3%A9xico-suecia-corea-d/1053921908088615/">Vota y decide quien va a ganar</a>
 
         </ul>
-        <h3>Se viene este enfrentamiento de Alemania vs Mexico y despues Suecia contra Corea del Sur un partido muy reñido.</h3>
-        <li>ALEMANIA</li><h3>VS</h3><li>MEXICO</li>
-        <h3>---------------------</h3>
-        <li>SUECIA</li><h3>VS</h3><li>COREA DEL SUR</li>
-        <h3>------------------------------------------------------------------------------------------------------------------</h3>
-    
+        <aside>
+          <h3>Se viene este enfrentamiento de Alemania vs Mexico y despues Suecia contra Corea del Sur un partido muy reñido.</h3>
+          <li>ALEMANIA</li><h3>VS</h3><li>MEXICO</li>
+          <h3>---------------------</h3>
+          <li>SUECIA</li><h3>VS</h3><li>COREA DEL SUR</li>
+          <h3>------------------------------------------------------------------------------------------------------------------</h3>
+        </aside>
+
     </nav>
   <main>
         <section>
             <article>
                 <hgroup>
-                  <h1>Los dos mejores paises de cada Grupo avanzaran para las eliminatorias finales </h1>
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGysvGs3DfKk5dg1QvGP64zgaGas8GNwGXA&s" alt="TABLA DE GRUPOS VS" width="850" height="600">
+
+                  <aside>
+                    <h1>Los dos mejores paises de cada Grupo avanzaran para las eliminatorias finales </h1>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGysvGs3DfKk5dg1QvGP64zgaGas8GNwGXA&s" alt="TABLA DE GRUPOS VS" width="850" height="600">
                   
                     <p>+++++++++++++++++++++++++++++++++++++++</p>
-                  <a href="https://www.youtube.com/post/Ugkxp53Oa_am7L3YzJHnn0fTx1IM3MOamHBQ">Poster de los Contrincantes</a>
+                   <a href="https://www.youtube.com/post/Ugkxp53Oa_am7L3YzJHnn0fTx1IM3MOamHBQ">Poster de los Contrincantes</a>
                     <p>+++++++++++++++++++++++++++++++++++++++</p>
-                  <a href="https://www.youtube.com/post/Ugkxdd5UhFERjznSO2ZiV7T4TJTuEd-89tZt">Poster de los Contrincantes</a>
+                   <a href="https://www.youtube.com/post/Ugkxdd5UhFERjznSO2ZiV7T4TJTuEd-89tZt">Poster de los Contrincantes</a>
                     <p>+++++++++++++++++++++++++++++++++++++++</p>
-                  <a href="https://www.youtube.com/post/UgkxgQCmCQTyD8OOHFOK-W7rir1rUebs8fFy">Poster de los Contrincantes</a>
+                   <a href="https://www.youtube.com/post/UgkxgQCmCQTyD8OOHFOK-W7rir1rUebs8fFy">Poster de los Contrincantes</a>
                     <p>+++++++++++++++++++++++++++++++++++++++</p>
-                  <a href="https://www.youtube.com/post/Ugkxnu8zhMjHg4nKXefpUv_VEP2qa3eqwLe9">Poster de los Contrincantes</a>
+                   <a href="https://www.youtube.com/post/Ugkxnu8zhMjHg4nKXefpUv_VEP2qa3eqwLe9">Poster de los Contrincantes</a>
                     <p>+++++++++++++++++++++++++++++++++++++++</p>
+                  </aside>
 
                   <h1>De los 16 paises que llegaron aqui solo 1 lograra levantar la Copa del Mundo</h1>  
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSee7bgX_Tm0TiMwiiPnUT6CHOcQzAvtkrSA&s" alt="COPA GANADORA" width="450" height="400">
